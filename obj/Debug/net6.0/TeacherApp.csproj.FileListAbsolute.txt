@@ -1,0 +1,15 @@
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\TeacherApp.exe
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\TeacherApp.deps.json
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\TeacherApp.runtimeconfig.json
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\TeacherApp.dll
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\ref\TeacherApp.dll
+C:\Users\Alexm\Documents\Code\TeacherApp\bin\Debug\net6.0\TeacherApp.pdb
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.csproj.AssemblyReference.cache
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.AssemblyInfoInputs.cache
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.AssemblyInfo.cs
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.dll
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\ref\TeacherApp.dll
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.pdb
+C:\Users\Alexm\Documents\Code\TeacherApp\obj\Debug\net6.0\TeacherApp.genruntimeconfig.cache
