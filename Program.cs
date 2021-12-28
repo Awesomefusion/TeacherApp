@@ -64,17 +64,20 @@ namespace TeacherApp
                     {
                         student.Grade = "Pass";
                     }
-                }
-                else if (student.Score >= 51)
-                {
-                    if (student.Score <= 69)
-                    {
-                        student.Grade = "Merit";
-                    }
-                }
-                else
-                {
-                    student.Grade = "Distinction";
+                        else if (student.Score >= 51)
+                        {
+                            if (student.Score <= 69)
+                            {
+                                student.Grade = "Merit";
+                            }
+                                else if (student.Score >= 70)
+                                {
+                                    if (student.Score <= 100)
+                                    {
+                                        student.Grade = "Distinction";
+                                    }
+                                }
+                        }
                 }
             }
 
@@ -84,7 +87,7 @@ namespace TeacherApp
             {
                 foreach (var student in SortedList)
                 {
-                    sw.WriteLine(student.ToString());
+                    sw.WriteLine(string.Format("Name: {0} Score: {1} Grade: {2}", student.Name, student.Score.ToString(), student.Grade));
                 }
             }
 
