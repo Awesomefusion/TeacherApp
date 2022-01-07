@@ -1,6 +1,0 @@
-Name: Sam Score: 45 Grade: Pass
-Name: Tom Score: 63 Grade: Merit
-Name: Mark Score: 25 Grade: Fail
-Name: Non Score: 15 Grade: Fail
-Name: Pete Score: 85 Grade: Distinction
-Name: Imey Score: 83 Grade: Distinction
